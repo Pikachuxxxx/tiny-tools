@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I\"/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/include\" -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -O0 -g -o CMakeFiles/tiny_c.dir/tiny.c.o -c \"/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/tiny.c\"",
+  "file": "/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/tiny.c",
+  "output": "CMakeFiles/tiny_c.dir/tiny.c.o"
+},
+{
+  "directory": "/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/include\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -O0 -g -o CMakeFiles/tiny_cpp.dir/tiny.cpp.o -c \"/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/tiny.cpp\"",
+  "file": "/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/tiny.cpp",
+  "output": "CMakeFiles/tiny_cpp.dir/tiny.cpp.o"
+}
+]

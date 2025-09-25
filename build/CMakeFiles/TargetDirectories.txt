@@ -1,0 +1,6 @@
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/tiny_c.dir
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/run_tiny_c.dir
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/tiny_cpp.dir
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/run_tiny_cpp.dir
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/edit_cache.dir
+/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/CMakeFiles/rebuild_cache.dir
