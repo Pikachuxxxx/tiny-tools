@@ -1,3 +1,0 @@
-/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate.dir
-/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/_deps/stb_image-subbuild/CMakeFiles/edit_cache.dir
-/Users/phanisrikar/Desktop/Projects/C++ Sandbox/tiny-tools/build/_deps/stb_image-subbuild/CMakeFiles/rebuild_cache.dir

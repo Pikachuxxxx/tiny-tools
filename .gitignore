@@ -1,0 +1,107 @@
+# -----------------------
+# Build directories
+# -----------------------
+build/
+bin/
+_out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# -----------------------
+# External dependencies
+# -----------------------
+_deps/
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# -----------------------
+# Compiled object files
+# -----------------------
+*.o
+*.obj
+*.exe
+
+# -----------------------
+# Editor / OS files
+# -----------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.vscode/
+.idea/
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+
+# -----------------------
+# Temporary files
+# -----------------------
+*.tmp
+*.bak
+*~
+# -----------------------
+# Build directories
+# -----------------------
+build/
+bin/
+_out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# -----------------------
+# External dependencies
+# -----------------------
+_deps/
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# -----------------------
+# Compiled object files
+# -----------------------
+*.o
+*.obj
+*.exe
+
+# -----------------------
+# Editor / OS files
+# -----------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.vscode/
+.idea/
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+
+# -----------------------
+# Temporary files
+# -----------------------
+*.tmp
+*.bak
+*~
+.DS_Store
